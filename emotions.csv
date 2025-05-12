@@ -1,0 +1,54 @@
+text,label
+"I'm so happy I could cry!",happy
+"I can't stop smiling today!",happy
+"This is the best day of my life!",happy
+"My boss was oddly nice today.",happy
+"I feel loved and appreciated.",happy
+"I'm grateful for everything I have.",happy
+"I feel at peace with myself.",happy
+"I'm incredibly proud of myself.",happy
+"I'm excited for what's to come!",happy
+"I had such a fun time today!",happy
+"I'm really enjoying the moment.",happy
+"I just want to be left alone.",sad
+"I feel so empty and numb.",sad
+"Everything feels meaningless.",sad
+"I cried myself to sleep.",sad
+"I'm struggling to get out of bed.",sad
+"I feel like a failure.",sad
+"No one seems to care about me.",sad
+"I'm tired of pretending I'm okay.",sad
+"I don't see the point in anything.",sad
+"I'm overwhelmed with sadness.",sad
+"I can’t believe they lied to me!",angry
+"This is completely unfair!",angry
+"Why does this always happen to me?!",angry
+"That's crazy wtf.",angry
+"Are you serious right now.",angry
+"I'm so mad I could scream!",angry
+"They made me look like a fool.",angry
+"I'm beyond frustrated.",angry
+"I hate how they treated me.",angry
+"People need to learn respect.",angry
+"I'm fed up with this nonsense.",angry
+"I'm not going to take this anymore!",angry
+"I'm really anxious about the future.",fear
+"What if something goes wrong?",fear
+"I'm scared I'll mess up.",fear
+"I can't stop worrying.",fear
+"I feel so nervous right now.",fear
+"I'm panicking over everything.",fear
+"What if they don’t like me?",fear
+"I feel trapped and scared.",fear
+"I'm afraid to speak up.",fear
+"Everything feels uncertain.",fear
+"I'm just chilling today.",neutral
+"It was a normal day.",neutral
+"I don’t feel much right now.",neutral
+"I'm okay, I guess.",neutral
+"Nothing really happened.",neutral
+"Meh, it’s whatever.",neutral
+"I'm not feeling anything specific.",neutral
+"It’s just another day.",neutral
+"I'm feeling neutral.",neutral
+"Things are fine, I guess.",neutral
